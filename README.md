@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey.. 👋, I'm Chaitanya Deore</h1>
-<h3 align="center">A Developer from Code Shift Studio</h3>
+<h3 align="center">A Devops Enginner from Cognizant </h3>
 
 <div align="left">
 
